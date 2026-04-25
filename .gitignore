@@ -1,0 +1,12 @@
+bin/
+obj/
+node_modules/
+dist/
+.vs/
+.vscode/
+*.user
+*.suo
+*.dbmdl
+*.cache
+frontend/.env
+backend/src/ShippingRates.Api/appsettings.Local.json
