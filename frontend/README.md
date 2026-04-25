@@ -1,4 +1,4 @@
-# Frontend 2
+# Frontend 
 
 Interfaz de usuario para la calculadora de tarifas de envio internacional.
 
